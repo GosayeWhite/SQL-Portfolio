@@ -1,2 +1,0 @@
-SELECT COUNT(orderID)
-FROM BIT_DB.JanSales
